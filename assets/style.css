@@ -1,0 +1,8 @@
+.auth-page .auth-side-wrapper {
+    background-image: url("wallpaper.jpg") !important;
+    background-position: center;
+}
+
+.mouseHover {
+    cursor: pointer;
+}
